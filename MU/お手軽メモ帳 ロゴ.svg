@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Microsoft Visio、SVG Export により生成 お手軽メモ帳 ロゴ.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="8.26772in" height="8.26772in"
+		viewBox="0 0 595.276 595.276" xml:space="preserve" color-interpolation-filters="sRGB" class="st6">
+	<v:documentProperties v:langID="1041" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:url(#grad0-4);stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {fill:#ffffd5;stroke:#00d900;stroke-linecap:round;stroke-linejoin:round;stroke-width:30}
+		.st3 {stroke:#a5a5a5;stroke-linecap:round;stroke-linejoin:round;stroke-width:6}
+		.st4 {stroke:#00d900;stroke-linecap:round;stroke-linejoin:round;stroke-width:30}
+		.st5 {fill:#d8d8d8;stroke:#00d900;stroke-linecap:round;stroke-linejoin:round;stroke-width:30}
+		.st6 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<linearGradient id="grad0-4" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(90 0.5 0.5)">
+			<stop offset="0" stop-color="#ffffe2" stop-opacity="1"/>
+			<stop offset="1" stop-color="#aaffaa" stop-opacity="1"/>
+		</linearGradient>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>ページ - 1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="コネクタ" v:index="0"/>
+		<g id="shape52-1" v:mID="52" v:groupContext="shape" transform="translate(-170.079,170.079)">
+			<title>シート.52</title>
+			<rect x="0" y="-340.157" width="935.433" height="935.433" class="st1"/>
+		</g>
+		<g id="shape34-5" v:mID="34" v:groupContext="shape" transform="translate(113.386,-28.3465)">
+			<title>シート.34</title>
+			<path d="M255.12 56.69 L368.5 170.08 L255.12 56.69 ZM255.12 56.69 L368.5 170.08 L368.5 595.28 L0 595.28 L0 56.69 L255.12
+						 56.69 Z" class="st2"/>
+		</g>
+		<g id="shape44-7" v:mID="44" v:groupContext="shape" transform="translate(170.079,-496.063)">
+			<title>シート.44</title>
+			<path d="M0 595.28 L255.12 595.28" class="st3"/>
+		</g>
+		<g id="shape45-10" v:mID="45" v:groupContext="shape" transform="translate(170.079,-439.37)">
+			<title>シート.45</title>
+			<path d="M0 595.28 L255.12 595.28" class="st3"/>
+		</g>
+		<g id="shape46-13" v:mID="46" v:groupContext="shape" transform="translate(170.079,-382.677)">
+			<title>シート.46</title>
+			<path d="M0 595.28 L255.12 595.28" class="st3"/>
+		</g>
+		<g id="shape47-16" v:mID="47" v:groupContext="shape" transform="translate(170.079,-325.984)">
+			<title>シート.47</title>
+			<path d="M0 595.28 L255.12 595.28" class="st3"/>
+		</g>
+		<g id="shape48-19" v:mID="48" v:groupContext="shape" transform="translate(170.079,-269.291)">
+			<title>シート.48</title>
+			<path d="M0 595.28 L255.12 595.28" class="st3"/>
+		</g>
+		<g id="shape49-22" v:mID="49" v:groupContext="shape" transform="translate(170.079,-212.598)">
+			<title>シート.49</title>
+			<path d="M0 595.28 L255.12 595.28" class="st3"/>
+		</g>
+		<g id="shape50-25" v:mID="50" v:groupContext="shape" transform="translate(170.079,-155.906)">
+			<title>シート.50</title>
+			<path d="M0 595.28 L255.12 595.28" class="st3"/>
+		</g>
+		<g id="shape51-28" v:mID="51" v:groupContext="shape" transform="translate(170.079,-99.2126)">
+			<title>シート.51</title>
+			<path d="M0 595.28 L255.12 595.28" class="st3"/>
+		</g>
+		<g id="shape37-31" v:mID="37" v:groupContext="shape" transform="translate(248.291,-238.557) rotate(5.6)">
+			<title>シート.37</title>
+			<path d="M0 510.19 L86.59 595.28 L193.78 454.77" class="st4"/>
+		</g>
+		<g id="shape41-34" v:mID="41" v:groupContext="shape" transform="translate(368.504,-453.543)">
+			<title>シート.41</title>
+			<path d="M0 481.89 L0 595.28 L113.39 595.28 L0 481.89 Z" class="st5"/>
+		</g>
+	</g>
+</svg>
