@@ -3,7 +3,7 @@
         <div>広告</div>
         <img src="https://it-engineer-k.github.io/myAd/MU/img.webp">
     </div>
-    <div>
+    <div class="text">
         <p class="title">
             【Androidユーザー必見!!】ロック画面にメモを表示する神アプリ
         </p>
@@ -11,18 +11,35 @@
             ロック画メモはスマホのロック画面やホーム画面の壁紙にメモを表示するアプリです。
             <br> 日々の持ち物をメモするためや、英単語帳などに是非お使いください!!
         </p>
+        <button>インストール</button>
     </div>
     <style>
         a {
+            width: 98vw;
             display: flex;
             text-decoration: none;
             color: black;
             font-weight: bold;
             border: solid 2px #afafaf;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+        
+        button {
+            margin-left: 1%;
+            margin-bottom: 10px;
+            width: 98%;
+            background-color: blue;
+            color: white;
+            font-weight: bold;
+            border: none;
+            border-radius: 100vh;
         }
         
         img {
-            height: 120px;
+            height: 130px;
             font-weight: bold;
             border: solid 1px #afafaf;
             margin: 5px;
@@ -34,6 +51,10 @@
         
         .description {
             font-size: medium;
+        }
+        
+        .text {
+            width: 100%;
         }
     </style>
 </a>
